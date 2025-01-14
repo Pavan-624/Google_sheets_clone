@@ -1,4 +1,4 @@
-# Spreadsheet Application
+# Google Sheets Clone
 
 A feature-rich web-based spreadsheet application that replicates the functionalities of traditional spreadsheet software like Google Sheets or Microsoft Excel. Users can easily create, edit, format, and manage spreadsheets with intuitive controls and versatile functionality.
 
