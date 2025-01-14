@@ -35,9 +35,22 @@ A feature-rich web-based spreadsheet application that replicates the functionali
 
 ## Technologies Used
 
-- **HTML**: Provides the structure of the application.
-- **CSS**: Ensures styling and layout.
-- **JavaScript**: Adds functionality and interactivity.
+**HTML (HyperText Markup Language):**
+
+- Defined the structure of the web application.
+- Used to create the layout of the spreadsheet, including rows, columns, and cells.
+- Enabled the inclusion of buttons, menus, and input fields for user interactions.
+  **CSS (Cascading Style Sheets):**
+
+- Applied styling and layout to ensure a visually appealing and user-friendly interface.
+- Used to style the grid-like structure of the spreadsheet, including cell borders, fonts, colors, and responsive design.
+- Implemented hover effects, dropdown menus, and other interactive UI elements to enhance usability.
+**JavaScript:**
+
+- Powered the dynamic functionality and interactivity of the application.
+- Managed user inputs, calculations, and data validation in real-time.
+- Enabled features like cell selection, formula computation, and drag-and-drop functionalities.
+- Incorporated event listeners to handle user actions such as typing, clicking, and navigating.
 
 ---
 
