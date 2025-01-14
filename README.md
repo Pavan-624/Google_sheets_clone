@@ -41,7 +41,7 @@ A feature-rich web-based spreadsheet application that replicates the functionali
 - Used to create the layout of the spreadsheet, including rows, columns, and cells.
 - Enabled the inclusion of buttons, menus, and input fields for user interactions.
   
-  **CSS (Cascading Style Sheets):**
+**CSS (Cascading Style Sheets):**
 
 - Applied styling and layout to ensure a visually appealing and user-friendly interface.
 - Used to style the grid-like structure of the spreadsheet, including cell borders, fonts, colors, and responsive design.
