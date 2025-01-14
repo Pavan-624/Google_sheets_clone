@@ -40,11 +40,13 @@ A feature-rich web-based spreadsheet application that replicates the functionali
 - Defined the structure of the web application.
 - Used to create the layout of the spreadsheet, including rows, columns, and cells.
 - Enabled the inclusion of buttons, menus, and input fields for user interactions.
+  
   **CSS (Cascading Style Sheets):**
 
 - Applied styling and layout to ensure a visually appealing and user-friendly interface.
 - Used to style the grid-like structure of the spreadsheet, including cell borders, fonts, colors, and responsive design.
 - Implemented hover effects, dropdown menus, and other interactive UI elements to enhance usability.
+  
 **JavaScript:**
 
 - Powered the dynamic functionality and interactivity of the application.
